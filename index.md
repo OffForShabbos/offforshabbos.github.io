@@ -1,6 +1,6 @@
 # Off For Shabbos
 
-<img alt="logo" src="img/logo-transparent.png" style="float: left; width: 200px" />
+<img alt="logo" src="img/logo-transparent.png" style="float: left; width: 200px; margin-right: 10px" />
 
 Jewish Law prohibits earning money during the Jewish Sabbath. Traditionally, this meant observant Jewish bussinessmen would close their store or business for the day... but how do we "close the store" in a modern "always available" online marketplace?
 
